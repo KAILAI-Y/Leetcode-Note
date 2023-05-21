@@ -50,4 +50,5 @@
 * It's important to always check for null values especially in data structures like linked lists before moving pointers. A null check can prevent ```NullReferenceExceptions```.
 
 ### Problem Sets
-[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=study-plan-v2&id=leetcode-75) | [Notes]()
+[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=study-plan-v2&id=leetcode-75) | [Notes](/Two%20Pointers/11.%20Container%20With%20Most%20Water.md)
+[1679. Max Number of K-Sum Pairs | Medium](https://leetcode.com/problems/max-number-of-k-sum-pairs/?envType=study-plan-v2&id=leetcode-75) | [Notes](/Two%20Pointers/1679.%20Max%20Number%20of%20K-Sum%20Pairs.md)
